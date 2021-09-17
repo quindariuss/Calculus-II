@@ -36,3 +36,4 @@ Office Hours: By Appointment
 | Classwork |    10% |
 | Homework  |    10% |
 | Quizzes   |    10% |
+hi there
